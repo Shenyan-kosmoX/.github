@@ -1,10 +1,11 @@
-# Shenyan-kosmoX · 组织形象与理念
+# Shenyan-kosmoX
 
-此仓库承载组织主页、Manifesto 和品牌素材。
+> 既有条件塑造了人的起点，却不应成为人的终点。
 
-- [组织主页源文件](profile/README.md)
-- [Manifesto](MANIFESTO.md)
-- [视觉规范](BRAND.md)
-- [素材来源](ASSET-SOURCES.md)
+这里保存我们的理念与组织形象。想认识社区，可以从 [Manifesto](MANIFESTO.md) 开始；想参与研究，可以去 [community](https://github.com/Shenyan-kosmoX/community)。
 
-公共协作由组织的 `community` 仓库承载。首页通过该仓库的配置和内容源生成；调整链接或组织身份时参照其维护说明。头像需要在组织设置中手动上传，并不会由 profile README 自动设置。
+- [组织首页](profile/README.md)
+- [视觉语言](BRAND.md)
+- [素材记录](ASSET-SOURCES.md)
+
+维护者可在 community 仓库找到首页构建与迁移说明。
