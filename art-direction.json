@@ -1,25 +1,39 @@
 {
-  "source_artwork": "Vincent van Gogh, The Poet's Garden, 1888; Art Institute of Chicago 1933.433",
+  "active_hero": "profile/assets/hero.png",
+  "source": "Community founder supplied image, authorized for organization homepage on 2026-10-19",
   "source_dimensions": [
-    2834,
-    2250
-  ],
-  "crop_pixels": [
-    0,
-    250,
-    2834,
-    1465
+    1672,
+    941
   ],
   "hero_dimensions": [
-    1680,
-    720
+    1672,
+    941
   ],
-  "processing": "Crop and resize only; original colors retained. No AI image generation.",
+  "processing": "Exact copy, no crop, no recoloring, no text added.",
   "avatar": "Original mark.svg; PNG raster matches curves, uses square background for GitHub's avatar mask.",
+  "previous_hero": {
+    "source_artwork": "Vincent van Gogh, The Poet's Garden, 1888; Art Institute of Chicago 1933.433",
+    "source_dimensions": [
+      2834,
+      2250
+    ],
+    "crop_pixels": [
+      0,
+      250,
+      2834,
+      1465
+    ],
+    "hero_dimensions": [
+      1680,
+      720
+    ],
+    "processing": "Crop and resize only; original colors retained. No AI image generation."
+  },
   "sha256": {
     "avatar.png": "bb9acd86365cd2ddf81504d9931bd42d271c5ba5d990252ed3e5a92467ca634f",
     "hero.jpg": "76b0ec0bb13cd76eac514bd58b663bf3581795f255ef7c8fcc0f9e3b3f5d90ca",
     "mark.svg": "ecfa6d11ac902dae6828b7591503b2f52ce4b4b564b79b9a4d8d171f050af651",
-    "poets-garden-source.jpg": "f60230477a999e0e32349d4bb41ebda85c47d9bc254b63b5ce5a7458d7045275"
+    "poets-garden-source.jpg": "f60230477a999e0e32349d4bb41ebda85c47d9bc254b63b5ce5a7458d7045275",
+    "hero.png": "58c5ecc3f576f04a5dd5d4578ebaa92416152751c7d08335ff1d67ef1744a800"
   }
 }
