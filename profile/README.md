@@ -36,7 +36,7 @@ AI 已经参与到我们的文献阅读、程序开发和结果分析中。真�
 
 求解器怎样接入，参数来自哪里，某张图如何生成，一项检查支持什么判断——这些信息与代码一起维护。我们也在用 [SORS 项目协作规范](https://github.com/Shenyan-kosmoX/community/blob/main/standards/SORS/SORS.md)整理共同约定，让不同领域的项目更容易被理解、试用和继续开发。
 
-**WeChat Content Studio** 面向写作与表达，将文章、图片和样式整理成可继续编辑的本地项目。它提供文章编排、风格提取和风格库管理三个 skill，帮助你从准备素材走到预览与富文本复制。[目录中的工具条目](https://github.com/Shenyan-kosmoX/community/blob/main/docs/RESEARCH.md#project-wechat-content-studio)连接安装、试用和各个 skill。
+**WeChat Content Studio** 面向写作与表达，将文章、图片和样式整理成可继续编辑的本地项目。它提供文章编排、风格提取和风格库管理三个 skill，帮助你从准备素材走到预览与富文本复制。[目录中的工具条目](https://github.com/Shenyan-kosmoX/community/blob/main/docs/RESEARCH.md#user-content-project-wechat-content-studio)连接安装、试用和各个 skill。
 
 [按领域和使用方式浏览完整目录 →](https://github.com/Shenyan-kosmoX/community/blob/main/docs/RESEARCH.md)
 
