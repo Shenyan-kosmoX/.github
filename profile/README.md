@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Shenyan-kosmoX/.github/main/profile/assets/hero.png" alt="深蓝星空中，金色轨迹、星体与暖白色的流动笔触交织。" width="100%" />
 </p>
 
-<p align="center"><sub>SHENYAN · kosmoX　／　AI FOR SCIENCE</sub></p>
+<p align="center"><sub>深研　／　AI FOR SCIENCE</sub></p>
 
 <h1 align="center">既有条件塑造了人的起点，<br />却不应成为人的终点。</h1>
 
@@ -10,19 +10,29 @@
 
 ---
 
-**Shenyan-kosmoX 是一个以 AI for Science 为主线的开放科研共同体。**
+**深研是一个以 AI for Science 为主线的开放科研共同体。**
 
 我们自己做研究，也把研究中逐步建立的工具开放出来。从论文里的一个想法，到电脑上能够运行的计算，中间要经过方程、求解器、参数、图像和许多次核对。我们希望把这些积累连在一起，让下一位研究者能找到一个清楚的起点。
 
 AI 已经参与到我们的文献阅读、程序开发和结果分析中。真正帮助研究向前走的，还有能够实际运行的工具、便于比较的案例，以及遇到差异时可以回头查阅的依据。在这里，人可以直接使用这些科研设施，也可以与 AI 一起阅读文档、调整模型、运行计算，再把新的发现和改进分享回来。
 
-### 让研究多一些可能
+### 我们为什么开始
 
-专业、资源和过往经历影响着一个人从哪里开始，却不该替他决定还能走向哪里。当知识与工具有了新的使用方式，我们希望更多人能亲自尝试那些一直好奇、却迟迟没有着手的问题。
+**我为什么开始**
 
-跨进一个陌生领域，往往从很小的一步开始：运行一个例子，弄清一个变量，看到一条与预期不同的曲线。社区希望让这些尝试更容易发生，也愿意陪伴问题逐渐变得清楚。熟悉领域的人可以留下经验，刚开始的人也可以带来好问题。
+> 我开始想，除了帮助年轻人适应眼前的规则，我们还能做些什么？
 
-[阅读 Manifesto →](https://github.com/Shenyan-kosmoX/.github/blob/main/MANIFESTO.md) · [认识发起团队 →](https://github.com/Shenyan-kosmoX/community/blob/main/ABOUT.md)
+从一段记得很久的阅读经历，到自己的研究与升学辅导中的见闻，发起人写下了这些问题怎样进入生活，以及 AI 带来的新可能。
+
+[阅读个人记录 →](https://github.com/Shenyan-kosmoX/community/blob/main/stories/WHY-I-STARTED.md)
+
+**我们为什么建设深研**
+
+> 我们希望人的进步能够推动 AI 的进步，AI 的进步也能够帮助更多人走向新的知识与创造。
+
+技术正在改变科研，获得这些工具的机会却仍有差异。团队在这篇文章中说明，为什么选择共同维护开放工具、研究案例与方法，让更多人能够实际使用它们。
+
+[阅读团队文章 →](https://github.com/Shenyan-kosmoX/community/blob/main/stories/WHY-WE-BUILD.md) · [认识发起团队 →](https://github.com/Shenyan-kosmoX/community/blob/main/ABOUT.md)
 
 ### 从这些项目开始
 
