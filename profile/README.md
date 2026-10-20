@@ -16,7 +16,7 @@
 
 AI 已经参与到我们的文献阅读、程序开发和结果分析中。真正帮助研究向前走的，还有能够实际运行的工具、便于比较的案例，以及遇到差异时可以回头查阅的依据。在这里，人可以直接使用这些科研设施，也可以与 AI 一起阅读文档、调整模型、运行计算，再把新的发现和改进分享回来。
 
-### 我们为什么开始
+### 从出发到研究
 
 **我为什么开始**
 
@@ -33,6 +33,14 @@ AI 已经参与到我们的文献阅读、程序开发和结果分析中。真�
 团队介绍了为什么选择现在开始，以及怎样通过开放工具、研究案例和长期维护，让新的研究能力被更多人掌握。
 
 [阅读团队文章 →](https://github.com/Shenyan-kosmoX/community/blob/main/stories/WHY-WE-BUILD.md) · [认识发起团队 →](https://github.com/Shenyan-kosmoX/community/blob/main/ABOUT.md)
+
+**How We Research**
+
+> 我把这种工作习惯称为 **Feedback First**：在投入大量时间之前，尽可能想清楚自己要依靠什么判断结果，以及哪些现象会迫使自己修改原来的认识。
+
+怎样进入陌生领域，找到一个值得研究的问题，又怎样判断 AI 协作中的结果？发起人结合自己的实践，讨论 Knowledge Flow、数学方法和科学共同体，并整理出一条可以尝试的研究路径。
+
+[阅读研究方法思考 →](https://github.com/Shenyan-kosmoX/community/blob/main/stories/HOW-WE-RESEARCH.md)
 
 ### 从这些项目开始
 
