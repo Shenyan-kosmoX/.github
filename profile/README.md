@@ -6,7 +6,7 @@
 
 <h1 align="center">既有条件塑造了人的起点，<br />却不应成为人的终点。</h1>
 
-<p align="center"><a href="https://github.com/Shenyan-kosmoX/.github/blob/main/MANIFESTO.md">我们的理念</a>　·　<a href="https://github.com/Shenyan-kosmoX/community/blob/main/ABOUT.md">发起团队</a>　·　<a href="https://github.com/Shenyan-kosmoX/community/blob/main/docs/RESEARCH.md">研究与工具</a>　·　<a href="https://github.com/Shenyan-kosmoX/community/blob/main/START-HERE.md">参与社区</a></p>
+<p align="center"><a href="https://github.com/Shenyan-kosmoX/community/blob/main/docs/RESEARCH.md">研究与工具</a>　·　<a href="https://github.com/Shenyan-kosmoX/.github/blob/main/MANIFESTO.md">我们的理念</a>　·　<a href="https://github.com/Shenyan-kosmoX/community/blob/main/ABOUT.md">发起团队</a>　·　<a href="https://github.com/Shenyan-kosmoX/community/blob/main/START-HERE.md">参与社区</a></p>
 
 ---
 
@@ -24,20 +24,21 @@ AI 已经参与到我们的文献阅读、程序开发和结果分析中。真�
 
 [阅读 Manifesto →](https://github.com/Shenyan-kosmoX/.github/blob/main/MANIFESTO.md) · [认识发起团队 →](https://github.com/Shenyan-kosmoX/community/blob/main/ABOUT.md)
 
-### 研究与工具
+### 从这些项目开始
 
 **Floquet–Maxwell 与 EcoDynamics 已经开放。** 一个从电磁场和材料调制研究光子晶体，一个从群落模型研究生态系统的稳定性、扰动与演化。它们都从实际研究中生长而来，提供完整的能力目录、文献计算、独立基准和本地运行入口。
 
-| 项目 | 研究方向 | 当前状态 |
+| 项目 | 可以做什么 | 提供形式 |
 | --- | --- | --- |
-| [Floquet–Maxwell](https://github.com/Shenyan-kosmoX/floquet-maxwell) | 时空调制光子晶体、开放动力学与散射 | MIT开源 · 17类能力与20项研究案例 |
-| [EcoDynamics](https://github.com/Shenyan-kosmoX/ecodynamics) | 生态稳定性、瞬态响应、时滞与群落组装 | MIT开源 · 9类能力与8项研究案例 |
+| [Floquet–Maxwell](https://github.com/Shenyan-kosmoX/floquet-maxwell) | 计算材料调制引起的光场、增长、传播与散射变化 | 计算工具箱、Python 库 |
+| [EcoDynamics](https://github.com/Shenyan-kosmoX/ecodynamics) | 分析群落稳定性、扰动放大、延迟效应与长期组装 | 计算工具箱、Python 库 |
+| [WeChat Content Studio](https://github.com/Shenyan-kosmoX/wechat-content-studio) | 整理文章与图片，生成预览和富文本，管理自己的样式 | Agent skill、CLI、Python 库 |
 
 求解器怎样接入，参数来自哪里，某张图如何生成，一项检查支持什么判断——这些信息与代码一起维护。我们也在用 [SORS 项目协作规范](https://github.com/Shenyan-kosmoX/community/blob/main/standards/SORS/SORS.md)整理共同约定，让不同领域的项目更容易被理解、试用和继续开发。
 
-研究和创作中使用的 skill、资料整理与表达工具，也会随着准备完成陆续分享。
+**WeChat Content Studio** 面向写作与表达，将文章、图片和样式整理成可继续编辑的本地项目。它提供文章编排、风格提取和风格库管理三个 skill，帮助你从准备素材走到预览与富文本复制。[目录中的工具条目](https://github.com/Shenyan-kosmoX/community/blob/main/docs/RESEARCH.md#project-wechat-content-studio)连接安装、试用和各个 skill。
 
-[查看完整项目目录与成果入口 →](https://github.com/Shenyan-kosmoX/community/blob/main/docs/RESEARCH.md)
+[按领域和使用方式浏览完整目录 →](https://github.com/Shenyan-kosmoX/community/blob/main/docs/RESEARCH.md)
 
 ### 你可以怎样加入
 
